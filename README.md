@@ -11,7 +11,7 @@
 
 <img src = "file/1.png" width = 100%> 
 
-[cfg](https://github.com/RybinSS/hw_keepalive/blob/main/file/haproxy1.pkt)
+[cfg](https://github.com/RybinSS/hw_keepalive/blob/main/file/haproxy1.cfg)
 
 
 ### Задание 2
@@ -21,5 +21,5 @@
 3. HAproxy должен балансировать только тот http-трафик, который адресован домену example.local  
 4. На проверку направьте конфигурационный файл haproxy, скриншоты, где видно перенаправление запросов на разные серверы при обращении к HAProxy c использованием домена example.local и без него.  
 
-[cfg](https://github.com/RybinSS/hw_keepalive/blob/main/file/haproxy2.pkt)  
+[cfg](https://github.com/RybinSS/hw_keepalive/blob/main/file/haproxy2.cfg)  
 
